@@ -1,7 +1,7 @@
 {
-  "version": "99.0.0.0",
+  "version": "1.0.0.1",
   "url": "https://github.com/mtfrdrive-creator/COD-Kraken/releases/download/v1.0.0.1/update.zip",
-  "notes": "Test mise à jour",
+  "notes": "Première mise à jour disponible",
   "sha256": "51163D12047727C298119BEA565156C3F2EECB719705A379EE3F279AAA5CB5B7",
   "mandatory": false
 }
