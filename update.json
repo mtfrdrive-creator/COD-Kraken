@@ -1,7 +1,7 @@
 {
-  "version": "3.0.0",
-  "url": "https://github.com/mtfrdrive-creator/COD-Kraken/releases/download/v4.0.1/update.zip",
+  "version": "4.0.2",
+  "url": "https://github.com/mtfrdrive-creator/COD-Kraken/releases/download/v4.0.2/update.zip",
   "notes": "Correction de bugs et amélioration générale",
-  "sha256": "51163d12047727c298119bea565156c3f2eecb719705a379ee3f279aaa5cb5b7",
+  "sha256": "e61daf835526757c35c534e87babd392bd8d1711cf9e7e0ffa53fc99aa3cd421",
   "mandatory": false
 }
