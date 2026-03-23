@@ -1,7 +1,7 @@
 {
-  "version": "3.0.0",
+  "version": "3.0.1",
   "url": "https://github.com/mtfrdrive-creator/COD-Kraken/releases/download/3.0.0/update.zip",
-  "notes": "Correction du système de mise à jour",
+  "notes": "Correction du système de mise à jour et test maj",
   "sha256": "6d40df7bafe4bf81b24a102df8a1de4e2eac402f296b1bc868f858d735a01d1e",
   "mandatory": false
 }
